@@ -38,7 +38,6 @@ Discovery_Wearable/
 
 Here is an overview of the programming languages used on this repository and in which areas they will be used:
 
-
 |       Domain       |  Language  |   Standard  |
 |:------------------:|:----------:|:-----------:|
 |      Hardware      |      C     |     TBD     |
@@ -50,8 +49,6 @@ Here is an overview of the programming languages used on this repository and in 
 | Data Visualization | JavaScript |   JSDoc-3   |
 | Data Visualization |   Python   |    PEP-8    |
 | Data Visualization | PostgreSQL |    SQL-99   |
-
-<br>
 
 > *As we move closer to production, most likely we will be narrowing this list down (e.g. such as removing MATLAB, assessing the utility of GoLang and JuliaLang in this context, etc.) and streamlining development/contribution workflow*
 
